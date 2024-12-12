@@ -1,0 +1,14 @@
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/obj/Debug/net8.0/FitnessTrainingApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/obj/Debug/net8.0/FitnessTrainingApp.AssemblyInfoInputs.cache
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/obj/Debug/net8.0/FitnessTrainingApp.AssemblyInfo.cs
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/obj/Debug/net8.0/FitnessTrainingApp.csproj.CoreCompileInputs.cache
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/bin/Debug/net8.0/FitnessTrainingApp
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/bin/Debug/net8.0/FitnessTrainingApp.deps.json
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/bin/Debug/net8.0/FitnessTrainingApp.runtimeconfig.json
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/bin/Debug/net8.0/FitnessTrainingApp.dll
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/bin/Debug/net8.0/FitnessTrainingApp.pdb
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/obj/Debug/net8.0/FitnessTrainingApp.dll
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/obj/Debug/net8.0/refint/FitnessTrainingApp.dll
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/obj/Debug/net8.0/FitnessTrainingApp.pdb
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/obj/Debug/net8.0/FitnessTrainingApp.genruntimeconfig.cache
+/home/anonymous/RiderProjects/FitnessTrainingApp/FitnessTrainingApp/obj/Debug/net8.0/ref/FitnessTrainingApp.dll
